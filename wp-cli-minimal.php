@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: FSE Support
- * Plugin URI: https://github.com/bintzpress/wp-cli-fse-support
- * Description: Using wp-cli, export templates and template parts from database
- * Version: 0.1.0
+ * Plugin Name: Minimal Package
+ * Plugin URI: https://github.com/bintzpress/wp-cli-minimal
+ * Description: Minimal WP-CLI Package
+ * Version: 1.0.1
  * Author: Brian Bintz
  * Author URI: https://bintzpress.com
  * License: GPL v2.0
