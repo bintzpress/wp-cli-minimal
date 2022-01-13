@@ -1,0 +1,21 @@
+{
+	"name": "bintzpress/wp-cli-minimal",
+	"description": "Minimal wp-cli package.",
+	"keywords": ["wp-cli", "wordpress"],
+	"type": "wp-cli-package",
+	"homepage": "https://github.com/bintzpress/wp-cli-minimal",
+	"authors": [
+		{
+			"name": "Brian Bintz",
+			"email": "brian@bintzpress.com",
+			"homepage": "https://bintzpress.com"
+		}
+	],
+	"license": "GPLv2",
+	"require": {
+		"php": ">=7.0"
+	},
+	"autoload": {
+		"files": [ "wp-cli-minimal.php" ]
+	}
+}
